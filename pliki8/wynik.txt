@@ -1,0 +1,4 @@
+Srednia liczb w linii nr 1: 231
+Srednia liczb w linii nr 2: 586
+Srednia liczb w linii nr 3: 1290
+Srednia liczb w linii nr 4: 1089

@@ -1,0 +1,16 @@
+Stodoła
+ul. Kowalska 8, 43-200 Kurowice
+1
+20000
+Pałac
+ul. Wiejska 1, 34-234 Wielka Wieś
+5
+5000000
+Wieżowiec
+ul. Srebrna, Warszawa
+50
+100000000
+Bungalow
+Nieznany
+1
+500000

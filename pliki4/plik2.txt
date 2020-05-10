@@ -1,0 +1,3 @@
+Chata		90000	1	Wies
+Stodoła		9009	1	Wies
+szopa		900	1	Wies
