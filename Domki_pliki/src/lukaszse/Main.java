@@ -1,8 +1,6 @@
 package lukaszse;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
+import java.io.*;
 import java.util.Scanner;
 
 public class Main {
@@ -22,26 +20,50 @@ public class Main {
     public static double cenaDomu(String plik, String nazwaDomu){
         File f;
         Scanner sc;
-        plik = "./" + plik + ".txt";
-        System.out.println("Otwieramy plik o nazwie: " + plik );
+        System.out.println("Otwieramy plik o nazwie: " + plik +".txt" );
+        FileOutputStream fos;
+        DataOutputStream dos;
 
         try{
-            f = new File(plik);
+            f = new File(plik  + ".txt");
             sc = new Scanner(f);
-            String tempNazwa, tempAdres;
-            int tempLiczKon;
-            Double tempCena;
+            fos = new FileOutputStream(plik + ".wyn");
+            dos = new DataOutputStream(fos);
 
-            do{
+            String tempNazwa = "";
+            String tempAdres = "";
+            int tempLiczKon;
+            double tempCena;
+            double cena = -1;
+
+
+            while(sc.hasNextLine()) {
                 tempNazwa = sc.nextLine();
                 System.out.println("Analizuje: " + tempNazwa);
                 tempAdres = sc.nextLine();
-                tempLiczKon = sc.nextInt(); sc.nextLine();
-                tempCena = sc.nextDouble(); sc.nextLine();
-            } while (!tempNazwa.equals(nazwaDomu));
-            System.out.println("Znaleziono dom o nazwie: " + tempNazwa );
+                tempLiczKon = sc.nextInt();
+                sc.nextLine();
+                tempCena = sc.nextDouble();
+                sc.nextLine();
 
-            return tempCena;
+                if (tempCena > 500) {
+                    // Przepisanie danych do pliku
+                    dos.writeUTF(tempNazwa);
+                    dos.writeUTF(tempAdres);
+                    dos.writeInt(tempLiczKon);
+                    dos.writeDouble(tempLiczKon);
+                }
+
+                if (tempNazwa.equals(nazwaDomu)) {
+                    cena = tempCena;
+                }
+            }
+
+            sc.close();
+            dos.close();
+
+            return cena;
+
 
         } catch (FileNotFoundException e){
             System.out.println("\nBrak odpowiedniego pliku");
