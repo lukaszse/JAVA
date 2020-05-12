@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8618b7a8-09a0-4f57-8c66-cb95b2649805" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PESEL/PESEL.DATA" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PESEL/PESEL.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/domy.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Domki_pliki/lukaszse/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Domki_pliki/lukaszse/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lukaszse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lukaszse/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="8618b7a8-09a0-4f57-8c66-cb95b2649805" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
