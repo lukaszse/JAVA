@@ -70,14 +70,14 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1877" height="321" key="GridCell.Tab.0.right/-1920.517.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1589136269617" />
-    <state x="656" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1589299781784">
+    <state x="656" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1589402257902">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="656" y="404" key="com.intellij.ide.util.TipDialog/-1920.517.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1589299781784" />
-    <state x="342" y="200" key="new project wizard" timestamp="1589229215473">
+    <state x="656" y="404" key="com.intellij.ide.util.TipDialog/-1920.517.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1589402257902" />
+    <state x="342" y="200" key="new project wizard" timestamp="1589402286247">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="342" y="200" key="new project wizard/-1920.517.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1589229215473" />
+    <state x="342" y="200" key="new project wizard/-1920.517.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1589402286247" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Domki_pliki$Main.ic" NAME="Main Coverage Results" MODIFIED="1589134890933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
