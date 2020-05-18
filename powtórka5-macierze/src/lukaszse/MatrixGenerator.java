@@ -25,14 +25,23 @@ public class MatrixGenerator {
     }
 
     public void showMatrix(){
-        System.out.println("\n");
-        for(int i=0; i<this.matrix.length; i++)
-            System.out.println(Arrays.toString(this.matrix[i]));
+        try {
+            System.out.println("\n");
+            for (int i = 0; i < this.matrix.length; i++)
+                System.out.println(Arrays.toString(this.matrix[i]));
+        }catch(NullPointerException e){
+            System.out.println("Błedne dane w tablicy");
+        }
+
     }
 
     public static void showMatrix(int[][] matrix) {
-        System.out.println("\n");
-        for (int i = 0; i < matrix.length; i++)
-            System.out.println(Arrays.toString(matrix[i]));
+        try {
+            System.out.println("\n");
+            for (int i = 0; i < matrix.length; i++)
+                System.out.println(Arrays.toString(matrix[i]));
+        }catch(NullPointerException e){
+            System.out.println("Błedne dane w tablicy");
+        }
     }
 }

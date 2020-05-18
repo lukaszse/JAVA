@@ -8,18 +8,24 @@ public class Macierze {
         int[][] C = new int[A.length][B[1].length];
 
         //sprawdzenie czy liczba kolumn macierzy A jest równa liczbie wierszy macierzy B
-        for(int i=0; i<A.length; i++)
-            if( A[i].length == B.length ){
-                for(int j=0; j<B[i].length; j++){
-                    C[i][j] = 0; //zerowanie macierzy - czy potrzebne? do spr.
-                    for(int k=0; k<A[i].length; k++)
-                        C[i][j] += A[i][k]*B[k][i];
+        try {
+            for (int i = 0; i < A.length; i++)
+                if (A[i].length == B.length) {
+                    for (int j = 0; j < B[i].length; j++) {
+                        C[i][j] = 0; //zerowanie macierzy - czy potrzebne? do spr.
+                        for (int k = 0; k < A[i].length; k++)
+                            C[i][j] += A[i][k] * B[k][i];
+                    }
+                } else {
+                    System.out.println("Wymiar macierzy jest nieprawidłowy");
+                    return null;
                 }
-            }
-            else {
-                System.out.println("Wymiar macierzy jest nieprawidłowy");
-                return null;
-            }
+        } catch (ArrayIndexOutOfBoundsException e){
+            System.out.println("Wymiar macierzy jest nieprawidłowy");
+        } catch (NullPointerException e2){
+            System.out.println("Wymiar macierzy jest nieprawidłowy");
+        }
+
         return C;
     }
 }
