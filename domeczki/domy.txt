@@ -1,0 +1,16 @@
+Stodoła
+wies
+1
+20000
+Pałac
+miasto
+6
+9999999
+Wieżowiec
+miasto
+50
+100000000
+Bungalow
+miasto
+1
+500000

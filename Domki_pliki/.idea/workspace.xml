@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8618b7a8-09a0-4f57-8c66-cb95b2649805" name="Default Changelist" comment="" />
+    <list default="true" id="8618b7a8-09a0-4f57-8c66-cb95b2649805" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Klasa_zaliczenie/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasa_zaliczenie/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasa_zaliczenie/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasa_zaliczenie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasa_zaliczenie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasa_zaliczenie/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasa_zaliczenie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasa_zaliczenie/Klasa_zaliczenie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Klasa_zaliczenie/src/lukaszse/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/LeagueTable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/src/lukaszse/FootbalTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/src/lukaszse/HockeyTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/src/lukaszse/LeagueTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/src/lukaszse/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeagueTable/src/lukaszse/VolleyBallTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lib/sqlite-jdbc-3.30.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacAmburger/MacAmburger.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacAmburger/src/lukaszse/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MacAmburger/src/lukaszse/HelthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestJDBC/TestJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestJDBC/test.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestJDBC/testjava.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zaliczenie_domy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zaliczenie_domy/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zaliczenie_domy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zaliczenie_domy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zaliczenie_domy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zaliczenie_domy/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zaliczenie_domy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zaliczenie_domy/Zaliczenie_domy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blabla/blabla.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blabla/src/lukaszse/Bazowa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blabla/src/lukaszse/Potomna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domeczki/domeczki.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domeczki/domy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domeczki/domyWysokieMiejskie.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../just test/just test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roboczy/roboczy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test888/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test888/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test888/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test888/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test888/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test888/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test888/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test888/test888.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test99/test99.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_/test_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testingnow/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testingnow/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testingnow/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testingnow/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testingnow/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testingnow/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testingnow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testingnow/out/production/testingnow/lukaszse/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testingnow/testingnow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TxtAnalysis/src/lukaszse/TxtAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TxtAnalysis/src/lukaszse/TxtAnalysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../powtórka5-macierze/src/lukaszse/MatrixGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../powtórka5-macierze/src/lukaszse/MatrixGenerator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +90,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../domeczki" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -54,6 +123,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="335" key="FileChooserDialogImpl" timestamp="1592432333203">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="335" key="FileChooserDialogImpl/-1920.517.1920.1040/0.0.1920.1160@0.0.1920.1160" timestamp="1592432333203" />
     <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1589136269617">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>

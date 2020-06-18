@@ -1,0 +1,16 @@
+Jan
+Kowalski
+5000
+50
+Ewa
+Nowak
+4000
+40
+Grzegorz
+Brzenczyszczykiewicz
+6000
+55
+Janina
+Nowakowska
+3000
+33
