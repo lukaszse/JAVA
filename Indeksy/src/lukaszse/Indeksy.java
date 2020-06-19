@@ -1,5 +1,6 @@
 package lukaszse;
 
+
 import java.util.Arrays;
 
 public class Indeksy {
@@ -30,6 +31,16 @@ public class Indeksy {
 
     void wypiszDane(int student){
         System.out.println("Student: " + student + " - " + Arrays.toString(listaOcen[student]) + " - rok zaliczony: " + zaliczonyRok(student));
+
+        double pi = 42e7;
+        System.out.println("pi: " + pi);
+
+        int i = 2;
+
+        System.out.println("i: "+i);
+
     }
+
+
 
 }
