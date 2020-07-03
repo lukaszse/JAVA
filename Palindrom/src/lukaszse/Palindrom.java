@@ -23,6 +23,7 @@ public class Palindrom {
             return false;
         }
 
+<<<<<<< HEAD
     public static String isPalindrome(String text){
         String reversedText = "";
         for(int i=0; i<text.length(); i++)
@@ -30,12 +31,15 @@ public class Palindrom {
         return reversedText;
     }
 
+=======
+>>>>>>> 346f045829d277f75ccecfb0da77ec5feb03e510
     public StringBuffer enterText(){
         System.out.println("\nPodaj jakiś tekst, następnie naciśnij enter aby zatwierdzić: ");
         StringBuffer temp = new StringBuffer(sc.nextLine());
         return temp;
     }
 
+<<<<<<< HEAD
     public static void saveToFile(String text, String fileName){
         PrintWriter pw = null;
         try{
@@ -51,6 +55,8 @@ public class Palindrom {
                 pw.close();
         }
     }
+=======
+>>>>>>> 346f045829d277f75ccecfb0da77ec5feb03e510
 
     public void saveTofile(String fileName){
         try{

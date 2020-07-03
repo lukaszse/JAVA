@@ -33,6 +33,7 @@ public class Main {
         System.out.println(tekst);
         System.out.println(odwroconyTekst);
 
+<<<<<<< HEAD
         tekst = "czy to jest palindrom czy nie?";
         System.out.println("\nPalindromem: \"" + tekst + "\" jest: ");
         System.out.println(Palindrom.isPalindrome(tekst));
@@ -51,4 +52,7 @@ public class Main {
 
     }
 
+=======
+    }
+>>>>>>> 346f045829d277f75ccecfb0da77ec5feb03e510
 }
