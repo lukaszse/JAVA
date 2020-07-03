@@ -20,59 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3951b99-4e0e-4902-9142-4beae06fafed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_30_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BazyDanych.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/BazyDanych/com/lukaszse/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lukaszse/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testjava.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestJDBC/testjava3.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestJDBC/testjava4.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestJDBC/testjava5.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminTermin1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminTermin1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminTermin1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminTermin1/egzaminTermin1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../egzaminTermin1/src/lukaszse/StosString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/com/lukaszse/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled104.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled33333/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled33333/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled33333/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled33333/untitled33333.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled44444/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled44444/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled44444/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled44444/untitled44444.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zadania do Arka/powtorkowe/domeczki/domeczki.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zadania do Arka/powtorkowe/powtorka/powtorka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zadania do Arka/powtorkowe/powtorka1/powtorka1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zadania do Arka/powtorkowe/powtórka5-macierze/powtórka5-macierze.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zadania do Arka/zaliczeniowe/Klasa_zaliczenie/Klasa_zaliczenie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zadania do Arka/zaliczeniowe/TxtAnalysis/TxtAnalysis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zadania do Arka/zaliczeniowe/Zaliczenie_domy/Zaliczenie_domy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Palindrom/out/production/Palindrom/lukaszse/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Palindrom/out/production/Palindrom/lukaszse/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Palindrom/out/production/Palindrom/lukaszse/Palindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Palindrom/out/production/Palindrom/lukaszse/Palindrom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Palindrom/src/lukaszse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Palindrom/src/lukaszse/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Palindrom/src/lukaszse/Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Palindrom/src/lukaszse/Palindrom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestJDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestJDBC/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestJDBC/out/production/TestJDBC/lukaszse/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestJDBC/out/production/TestJDBC/lukaszse/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestJDBC/src/lukaszse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestJDBC/src/lukaszse/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TxtAnalysis/src/lukaszse/TxtAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TxtAnalysis/src/lukaszse/TxtAnalysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JDBC/src/com/lukaszse/model/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/com/lukaszse/model/DataSource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +81,7 @@
       <updated>1593719461662</updated>
       <workItem from="1593719464992" duration="4421000" />
       <workItem from="1593770677508" duration="5758000" />
+      <workItem from="1593794753881" duration="605000" />
     </task>
     <servers />
   </component>
