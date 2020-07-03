@@ -24,7 +24,7 @@ public class TxtAnalysis {
         int[] histogram = new int[26];
             for(int i=0; i<this.text.length(); i++){
                 if(this.text.toLowerCase().charAt(i) - 'a' >= 0 && this.text.toLowerCase().charAt(i) - 'a' <= 26)
-                    histogram[(this.text.toLowerCase().charAt(i))-'a']++;
+                    histogram[(this.text.toLowerCase().charAt(i))-'a']++; //!!!!!!
             }
         return histogram;
     }

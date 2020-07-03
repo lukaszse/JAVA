@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         try {
-            Connection conn = DriverManager.getConnection("jdbc:sqlite:E:\\06_EDUKACJA\\02_PROGRAMOWANIE\\JAVA\\TestJDBC\\testjava.db");
+            Connection conn = DriverManager.getConnection("jdbc:sqlite:D:\\02_PROGRAMOWANIE\\JAVA\\TestJDBC\\testjava5.db");
             Statement statement = conn.createStatement();
             statement.execute("CREATE TABLE IF NOT EXISTS contacts (name TEXT, phone INTEGER, email TEXT)");
 
@@ -18,17 +18,17 @@ public class Main {
 //            statement.execute("SELECT * FROM contacts");
 //            ResultSet results = statement.getResultSet();
 
-            ResultSet results = statement.executeQuery("SELECT * FROM contacts");
+//            ResultSet results = statement.executeQuery("SELECT * FROM contacts");
 
-            while(results.next()){
-                System.out.print(results.getString("name")+ ",\t");
-                System.out.print(results.getInt("phone")+ ",\t");
-                System.out.print(results.getString("email")+"\n");
-            }
-
-
-            statement.close();
-            conn.close();
+//            while(results.next()){
+//                System.out.print(results.getString("name")+ ",\t");
+//                System.out.print(results.getInt("phone")+ ",\t");
+//                System.out.print(results.getString("email")+"\n");
+//            }
+//
+//
+//            statement.close();
+//            conn.close();
 
         } catch (SQLException e){
             System.out.println("something went wrong: " + e.getMessage());

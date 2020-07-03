@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3951b99-4e0e-4902-9142-4beae06fafed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_30_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BazyDanych.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BazyDanych/com/lukaszse/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lukaszse/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testjava.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestJDBC/testjava3.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestJDBC/testjava4.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestJDBC/testjava5.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminTermin1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminTermin1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminTermin1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminTermin1/egzaminTermin1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../egzaminTermin1/src/lukaszse/StosString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/com/lukaszse/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33333/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33333/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33333/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33333/untitled33333.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled44444/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled44444/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled44444/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled44444/untitled44444.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania do Arka/powtorkowe/domeczki/domeczki.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania do Arka/powtorkowe/powtorka/powtorka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania do Arka/powtorkowe/powtorka1/powtorka1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania do Arka/powtorkowe/powtórka5-macierze/powtórka5-macierze.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania do Arka/zaliczeniowe/Klasa_zaliczenie/Klasa_zaliczenie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania do Arka/zaliczeniowe/TxtAnalysis/TxtAnalysis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadania do Arka/zaliczeniowe/Zaliczenie_domy/Zaliczenie_domy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Palindrom/out/production/Palindrom/lukaszse/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Palindrom/out/production/Palindrom/lukaszse/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Palindrom/out/production/Palindrom/lukaszse/Palindrom.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Palindrom/out/production/Palindrom/lukaszse/Palindrom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Palindrom/src/lukaszse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Palindrom/src/lukaszse/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Palindrom/src/lukaszse/Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Palindrom/src/lukaszse/Palindrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestJDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestJDBC/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestJDBC/out/production/TestJDBC/lukaszse/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestJDBC/out/production/TestJDBC/lukaszse/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestJDBC/src/lukaszse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestJDBC/src/lukaszse/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TxtAnalysis/src/lukaszse/TxtAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TxtAnalysis/src/lukaszse/TxtAnalysis.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1e92PFmQak4cg40A37YljjbBMDY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lib/sqlite-jdbc-3.30.1.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.lukaszse.Main" />
+      <module name="BazyDanych" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3951b99-4e0e-4902-9142-4beae06fafed" name="Default Changelist" comment="" />
+      <created>1593719461662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593719461662</updated>
+      <workItem from="1593719464992" duration="4421000" />
+      <workItem from="1593770677508" duration="5758000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="666" y="321" key="FileChooserDialogImpl" timestamp="1593719760631">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="666" y="321" key="FileChooserDialogImpl/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1593719760631" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1593793626988">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1593793626988" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1593793626988">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1593793626988" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1593793626988">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1593793626988" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1593793626988">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1593793626988" />
+    <state x="440" y="154" key="SettingsEditor" timestamp="1593719764009">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="440" y="154" key="SettingsEditor/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1593719764009" />
+    <state x="342" y="200" key="new project wizard" timestamp="1593793619828">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="342" y="200" key="new project wizard/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1593793619828" />
+  </component>
+</project>

@@ -33,5 +33,22 @@ public class Main {
         System.out.println(tekst);
         System.out.println(odwroconyTekst);
 
+        tekst = "czy to jest palindrom czy nie?";
+        System.out.println("\nPalindromem: \"" + tekst + "\" jest: ");
+        System.out.println(Palindrom.isPalindrome(tekst));
+
+        ///testing egzamining
+        Integer Integer=999;
+        String tekst33 = Integer.toString();
+        String tekst2 = Integer.toString(99);
+
+        System.out.println(Integer.toString(99));
+
+        double a = 1.0/-0;
+        System.out.println(a);
+
+
+
     }
+
 }
