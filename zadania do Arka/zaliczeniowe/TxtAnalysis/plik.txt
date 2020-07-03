@@ -1,0 +1,5 @@
+To jest przykladowy plik tekstowy z przykladowtym tekstem.
+Co on robi? Nic, jest do testowania i tyle. A co testuje? Program do analizy tekstu który jest testowany na tym wlasnie pliku.
+A gdy już przetestuje, to kończy testować.
+A co zrobi jak zakończy?
+Wtedy może rozpocząć ponownie o ile tylko zechcesz.

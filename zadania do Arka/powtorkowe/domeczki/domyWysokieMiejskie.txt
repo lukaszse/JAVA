@@ -1,0 +1,8 @@
+Pałac
+miasto
+6
+9999999.0
+Wieżowiec
+miasto
+50
+1.0E8
