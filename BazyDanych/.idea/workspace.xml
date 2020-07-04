@@ -20,10 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3951b99-4e0e-4902-9142-4beae06fafed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JDBC/music.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/src/com/lukaszse/model/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/src/com/lukaszse/model/Artist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JDBC/src/com/lukaszse/model/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/out/production/JDBC/com/lukaszse/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/out/production/JDBC/com/lukaszse/model/DataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBC/src/com/lukaszse/model/SongArtist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JDBC/src/com/lukaszse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/com/lukaszse/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JDBC/src/com/lukaszse/model/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JDBC/src/com/lukaszse/model/DataSource.java" afterDir="false" />
@@ -86,7 +85,8 @@
       <updated>1593719461662</updated>
       <workItem from="1593719464992" duration="4421000" />
       <workItem from="1593770677508" duration="5758000" />
-      <workItem from="1593794753881" duration="1542000" />
+      <workItem from="1593794753881" duration="1799000" />
+      <workItem from="1593861345092" duration="596000" />
     </task>
     <servers />
   </component>
