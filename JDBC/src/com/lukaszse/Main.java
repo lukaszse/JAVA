@@ -5,6 +5,7 @@ import com.lukaszse.model.DataSource;
 import com.lukaszse.model.SongArtist;
 
 import java.util.List;
+import java.util.Scanner;
 
 public class Main {
 
@@ -48,6 +49,30 @@ public class Main {
 
 
         dataSource.querySongMetadata();
+
+        dataSource.createViewForSongArtists();
+
+        songArtists = dataSource.querySongInfoView("Go Your Own Way");
+
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter some title: ");
+        String title = scanner.nextLine();
+
+
+        if(songArtists.isEmpty()) {
+            System.out.println("Could'nt find the artist for the song");
+            return;
+        }
+
+        i = 0;
+        for(SongArtist artist : songArtists) {
+            System.out.println(" --------------- Result: "  + ++i + "----------------");
+                System.out.println("FROM VIEW - Artist name: " + artist.getArtistName());
+                    System.out.println(("FROM VIEW - Album name: ") + artist.getAlbumName());
+                        System.out.println("FROM VIEW - Track: " + artist.getTrack());
+
+        }
 
         dataSource.close();
     }
