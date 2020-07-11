@@ -13,7 +13,7 @@ public class Main {
 
         DataSource dataSource = new DataSource();
 
-        if(!dataSource.open()){
+        if(!dataSource.open()) {
             System.out.println("Couldn't open datasource");
             return;
         }
@@ -52,28 +52,30 @@ public class Main {
 
         dataSource.createViewForSongArtists();
 
-        songArtists = dataSource.querySongInfoView("Go Your Own Way");
 
 
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter some title: ");
-        String title = scanner.nextLine();
 
+//        Scanner scanner = new Scanner(System.in);
+//        System.out.println("Enter some title: ");
+//        String title = scanner.nextLine();
+//        songArtists = dataSource.querySongInfoView(title);
+//
+//
+//        if(songArtists.isEmpty()) {
+//            System.out.println("Could'nt find the artist for the song");
+//            return;
+//        }
+//
+//        i = 0;
+//        for(SongArtist artist : songArtists) {
+//            System.out.println(" --------------- Result: "  + ++i + "----------------");
+//                System.out.println("FROM VIEW - Artist name: " + artist.getArtistName());
+//                    System.out.println(("FROM VIEW - Album name: ") + artist.getAlbumName());
+//                        System.out.println("FROM VIEW - Track: " + artist.getTrack());
+//
+//        }
 
-        if(songArtists.isEmpty()) {
-            System.out.println("Could'nt find the artist for the song");
-            return;
-        }
-
-        i = 0;
-        for(SongArtist artist : songArtists) {
-            System.out.println(" --------------- Result: "  + ++i + "----------------");
-                System.out.println("FROM VIEW - Artist name: " + artist.getArtistName());
-                    System.out.println(("FROM VIEW - Album name: ") + artist.getAlbumName());
-                        System.out.println("FROM VIEW - Track: " + artist.getTrack());
-
-        }
-
+        dataSource.insertSong("Touch of Grey", "Grateful Dead", "In the Dark", 1);
         dataSource.close();
     }
 }
