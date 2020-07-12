@@ -25,7 +25,29 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33cc1546-ab55-45e4-8f05-a5d8e8117d40" name="Default Changelist" comment="" />
+    <list default="true" id="33cc1546-ab55-45e4-8f05-a5d8e8117d40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProducerConsumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProducerConsumer/com/lukaszse/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProducerConsumer/com/lukaszse/MyConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProducerConsumer/com/lukaszse/MyProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ProducerConsumer/com/lukaszse/ThreadColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lukaszse/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lukaszse/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char/char.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char/out/production/char/com/lukaszse/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../char/src/com/lukaszse/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../char/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
