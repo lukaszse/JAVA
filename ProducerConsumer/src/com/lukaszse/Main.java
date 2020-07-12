@@ -67,6 +67,8 @@ class MyProducer implements Runnable {
     }
 }
 
+
+//Producer clas use trylock() method
 class MyConsumer implements Runnable {
     private List<String> buffer;
     private String color;
