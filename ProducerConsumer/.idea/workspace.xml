@@ -26,27 +26,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33cc1546-ab55-45e4-8f05-a5d8e8117d40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProducerConsumer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProducerConsumer/com/lukaszse/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProducerConsumer/com/lukaszse/MyConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProducerConsumer/com/lukaszse/MyProducer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ProducerConsumer/com/lukaszse/ThreadColor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lukaszse/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lukaszse/ThreadColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char/char.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char/out/production/char/com/lukaszse/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../char/src/com/lukaszse/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lambdas/Lambdas.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../char/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../char/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProducerConsumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProducerConsumer.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,9 +71,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-14" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.lukaszse.Main" />
       <module name="ProducerConsumer" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -114,6 +100,8 @@
       <updated>1594483588190</updated>
       <workItem from="1594483590973" duration="12107000" />
       <workItem from="1594565072012" duration="44000" />
+      <workItem from="1594567160841" duration="348000" />
+      <workItem from="1594567553840" duration="750000" />
     </task>
     <servers />
   </component>
@@ -170,26 +158,38 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="657" y="183" key="#Main" timestamp="1594566931135">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="657" y="183" key="#Main/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594566931135" />
+    <state x="414" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594567618455">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="414" y="235" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594567618455" />
     <state x="765" y="296" key="#com.intellij.ide.util.MemberChooser" timestamp="1594485137524">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="765" y="296" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594485137524" />
-    <state width="1877" height="396" key="GridCell.Tab.0.bottom" timestamp="1594565067726">
+    <state x="689" y="370" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594567477866">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="396" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594565067726" />
-    <state width="1877" height="396" key="GridCell.Tab.0.center" timestamp="1594565067726">
+    <state x="689" y="370" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594567477866" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1594570256041">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="396" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594565067726" />
-    <state width="1877" height="396" key="GridCell.Tab.0.left" timestamp="1594565067726">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594570256041" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1594570256041">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="396" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594565067726" />
-    <state width="1877" height="396" key="GridCell.Tab.0.right" timestamp="1594565067726">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594570256041" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1594570256041">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="396" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594565067726" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594570256041" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1594570256041">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594570256041" />
     <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1594565067726">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -210,10 +210,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594561781303" />
-    <state x="342" y="200" key="new project wizard" timestamp="1594501939535">
+    <state x="342" y="200" key="new project wizard" timestamp="1594567695746">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="342" y="200" key="new project wizard/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594501939535" />
+    <state x="342" y="200" key="new project wizard/0.0.1920.1160/-1920.0.1920.1160@0.0.1920.1160" timestamp="1594567695746" />
     <state x="616" y="270" key="run.anything.popup" timestamp="1594561089821">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>

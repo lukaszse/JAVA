@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/ProducerConsumer.iml" filepath="$PROJECT_DIR$/.idea/ProducerConsumer.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/ProducerConsumer.iml" filepath="$PROJECT_DIR$/ProducerConsumer.iml" />
->>>>>>> TimThread
     </modules>
   </component>
 </project>
